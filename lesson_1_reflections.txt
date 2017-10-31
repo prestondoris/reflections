@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+	This was extremely helpful because it specifies specifically where the mistake/difference was made.
+
+	This will be extremely helpful when making multiple changes to a JS file qucikcly. Mistakes can be made and it is difficult to find what the issues were.
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	This will allow for updates to add new features without losing an older working version.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	
+	The pros are you can control the versions based on logical break points. You can keep track of the different logical changes 
+	The cons are you are responsible for having to do this everytime to keep track of your versions
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	If there is a logical link between the files (like HTML, CSS, JS files that make a webpage) it makes sense that all of those files should all be saved together.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+	
+	You can use git log to view the commit history. This will show all the commits made, as well as the brief description of the change that was made. git diff will compare two different commits, showing the difference between the two (esentially showing what was changed between them).
+
+
+How might using version control make you more confident to make changes that could break something?
+	
+	It allows you to add a new feature that has new/untested code while still allowing you to keep a usable working file on hand.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	
+	I would like to use git to track all of my coding changes. I want to use a more sophisticated version control that allows me to make more significant changes at a single time without fear of breaking current working code.
+
+	

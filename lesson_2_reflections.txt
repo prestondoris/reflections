@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	You create a new git repository which will allow you to start making commits. Without initiallizing the repository you cannot make commits to track your changes.
