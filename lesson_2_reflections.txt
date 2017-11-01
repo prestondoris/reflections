@@ -21,3 +21,8 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	I am a visual person, so the diagram of the state of the repository is extremely helpful for me to track the commits and branches. Being able to see the branch structure is also helpful when checking out previous commits and how making a change to a previous commit and commiting that change makes that commit unreachable.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	We are combining two branches into a single branch with all the changes from both reflected in the newest Merge Commit. We represent it in the diagram the way we do because the two branches merge to be one branch.
