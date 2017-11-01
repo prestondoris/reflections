@@ -11,3 +11,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	
 	The stagging area is usful to insure one commit per logical stage because it allows any and all files that pertain to that logical change to be commited at the same time.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	If you are working a new feature but would like to continue with a version of your code that is working properly without the new feature, a branch can allow you to continue to work on the new feature without changing the "older" working file on the master branch. It is a way to allow you to experiment without risk of breaking a working version.
