@@ -16,3 +16,10 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clone: This is a Git feature that allows you to create an exact copy of an existing repository. From the command line "git clone repositoryLocation" will clone the repository
 
 	Branches: This is a Git feature in a given respository which allows you to deviate from the master branch.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	When collaborating there can be changes made to the remote repo that you do not have so being able to have a copy of the remote repo to compare to your local repo will allow you to add changes local that were made by collaborators.
+
+	
