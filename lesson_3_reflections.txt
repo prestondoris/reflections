@@ -22,4 +22,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	When collaborating there can be changes made to the remote repo that you do not have so being able to have a copy of the remote repo to compare to your local repo will allow you to add changes local that were made by collaborators.
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Using a system like Dropbox or Google Docs would be an option because they contain some version of version control. It would be simpler process of simply saving a file but you dont have the ability to keep a working file that is unchanged while experimenting on seperate branches. 
+
 	
